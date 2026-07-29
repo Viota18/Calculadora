@@ -1,0 +1,12 @@
+
+-----| CALCULADORA |-----
+
+🛠️ O que usei:
+
+input() para entrada de dados
+if / elif / else para decisões
+float() para converter valores
+função para organizar o código
+
+📚 O principal aprendizado:
+Antes de codar, é essencial entender o papel de cada variável. Pequenos erros de lógica podem quebrar tudo.
