@@ -48,13 +48,14 @@ Calculadora/
 
 ## 📸 Demonstração
 
-*(Adicione aqui um print da sua calculadora funcionando)*
+<img width="635" height="171" alt="image" src="https://github.com/user-attachments/assets/e988aa2c-7dfb-48aa-a23a-0ddbd5ab6340" />
+
 
 ## 💡 Aprendizados
 
 Esse projeto foi importante para entender como estruturar aplicações reais, separando responsabilidades entre lógica e interface, além de trabalhar com interfaces gráficas em Python.
 
-## 🚀 Próximos passos
+## 🚀 Próximos passos / Pretendo Fazer
 
 * Melhorar o design da interface
 * Adicionar botões interativos (estilo calculadora real)
